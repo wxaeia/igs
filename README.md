@@ -1,4 +1,4 @@
-# igs
+# igs code
 
 ## Getting Started
 
